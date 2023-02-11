@@ -22,13 +22,14 @@ h1{
 }
 header{
     padding: 5px;
-    background-color:rgb(7, 12, 12);
+    background-color: rgb(29, 50, 56);
     text-align: center;
+    
 
 }
 a{
     text-decoration: none;
-    font-size: 1.5em;
+    font-size: 1em;
     color:white; 
     padding: 0px;
     padding-right: 30px;
@@ -58,7 +59,7 @@ main {
 
 }
 #content{
-    border: 2px rgb(20, 20, 223) solid;
+    border: 1px rgb(20, 20, 223) solid;
     width: 100%;
     height: 100%;
 
@@ -75,7 +76,7 @@ main {
 }
 p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
     color: white;
     text-align: left;
 }
@@ -113,4 +114,8 @@ label{
  font-size: 1em;
  text-align: center;
 
+}
+img{
+    height: 20px;
+    width: 20px;
 }
